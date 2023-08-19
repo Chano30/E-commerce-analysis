@@ -2,7 +2,7 @@
 ![Dashboard](https://github.com/Chano30/E-commerce-analysis/blob/master/ecommerce_dashboard/dashboard.png)
 
 ## Project Overview:
-This project entails a comprehensive analysis of sales and product data. Python is employed for data extraction and visualization, while PostgreSQL aids in conducting in-depth analysis.
+This project entails a comprehensive analysis of sales and product data. Python is employed for data extraction, visualization and Interactive Dashboard, while PostgreSQL aids in conducting in-depth analysis.
 
 ## Data & Tool Used:
 **Data** - E-commerce Sales dataset obtained from Kaggle.com\
